@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700;900&display=swap');
 main{
     font-family: 'Source Sans 3', sans-serif;
     color:  #04146c;
@@ -27,6 +27,9 @@ h3{
     margin: auto;
     margin-bottom: 20px;
     width: fit-content;
+}
+h3 strong{
+    font-weight: 700;
 }
 p{
     font-size: 18pt;
