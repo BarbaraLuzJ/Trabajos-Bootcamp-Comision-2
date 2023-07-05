@@ -21,6 +21,7 @@ p{
 }
 div{
     background-image:url(./imagenes/fondo.JPG);
+    background-repeat: repeat-x;
     width: 400px;    
 }
 img{
