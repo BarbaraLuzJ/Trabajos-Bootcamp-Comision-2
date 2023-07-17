@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+@font-face {
+    font-family: 'coolvetica';
+    src: url(./fuente/coolvetica\ rg\ \(2\).otf);
+}
+html {
+    font-size: 6px;
+}
+h1 {
+    font-family: 'coolvetica';
+    font-weight: 400;
+    font-size: 20rem;
+    color: #0a2ff1;
+}
+h2 {
+    font-weight: 900;
+    font-size: 5rem;
+    color: #0a2ff1;
+    text-align: center;
+}
+p {
+    font-weight: 400;
+    font-size: 4rem;
+    color: #04146c;
+}
+.contenedor {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    width: 100%;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    padding: 1em;
+    background-color: #eff2ff;
+}
+#Apple {
+    width: 18%;
+}
+img {
+    width: 25%;
+    margin: 0 auto;
+}

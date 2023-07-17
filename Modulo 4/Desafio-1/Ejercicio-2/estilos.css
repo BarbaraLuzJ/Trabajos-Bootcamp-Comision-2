@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+.contenedor {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+div {
+    width: 30%;
+}
+h1 {
+    font-weight: bold;
+    font-size: 4rem;
+    color: #0a2ff1;
+}
+p {
+    font-weight: 300;
+    font-size: 2rem;
+    color: #04146c;
+}
+.estrellas {
+    width: 30%;
+}
+h4 {
+    font-weight: 400;
+    font-size: 1rem;
+    color: #04146c;
+}
+h4 strong {
+    font-weight: bold;
+}

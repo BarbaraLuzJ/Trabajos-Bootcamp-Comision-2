@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'coolvetica';
+    src: url(./fuentes/coolvetica\ rg.otf);
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+html {
+    font-size: 10px;
+}
+h1 {
+    font-family: 'coolvetica';
+    font-weight: 300;
+    font-size: 12rem;
+    text-align: center;
+    color: #0a2ff1;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 4rem;
+    text-align: center;
+    color: #04146c;
+}
+div {
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+button {
+    width: 500px;
+    height: 80px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4rem;
+    font-weight: 400;
+    color: #04146c;
+    border: 3px solid #0a2ff1;
+}
+.btn-1 {
+    background-color: #0a2ff1;
+    color: white;
+}
