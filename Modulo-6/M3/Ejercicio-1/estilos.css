@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+.form-label {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #04146c;
+}
+.form-check {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #04146c;
+}
+.form-text{
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+    font-size: 1rem;
+    color: #04146c;
+}
+.form-control {
+    border: 1px solid #8a9af1;
+}
+.btn {
+    font-family: 'Mulish', sans-serif;
+    width: 150px;
+    height: 50px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: #5974ff;
+}
